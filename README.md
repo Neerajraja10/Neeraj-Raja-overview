@@ -1,8 +1,11 @@
-<img width="678" alt="image" src="https://github.com/Neerajraja10/Neeraj-Raja-overview/assets/114890256/56dd56ed-75ea-4239-8602-75afe2d5ec1e">
+<img width="1200" alt="image" src="https://github.com/Neerajraja10/Neeraj-Raja-overview/assets/114890256/56dd56ed-75ea-4239-8602-75afe2d5ec1e">
 
 <p align="center">
-  <a href="mailto:raja.n@northeastern.edu">Email</a> •
-  <a href="https://www.linkedin.com/in/neeraj-raja-260a10104/">LinkedIn</a>
+  <a href="mailto:raja.n@northeastern.edu"style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: #fff; text-decoration: none; border-radius: 4px; font-weight: bold;">
+    <i class="fas fa-envelope" style="margin-right: 5px;"></i> Email</a>
+  •</a> •
+  <a href="https://www.linkedin.com/in/neeraj-raja-260a10104/"style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: #fff; text-decoration: none; border-radius: 4px; font-weight: bold;">
+    <i class="fab fa-linkedin" style="margin-right: 5px;"></i> LinkedIn</a>
 </p>
 
 
