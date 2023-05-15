@@ -18,3 +18,19 @@ As an individual with a passion for technology and a focus on delivering excepti
 My GitHub repository showcases a collection of projects and contributions that reflect my dedication to innovation, problem-solving, and continuous learning. From automated deployment pipelines to IAM configuration and website uptime optimization, each endeavor demonstrates my commitment to excellence and my ability to leverage cutting-edge technologies to drive tangible business outcomes.
 
 I am excited to collaborate, contribute, and make a lasting impact in the dynamic world of technology. Together, let's build a future fueled by innovation and driven by excellence.
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="http://www.w3.org/2000/svg" alt="Xcode" width="40" height="40"/>&nbsp;
+  <img src="http://www.w3.org/2000/svg"fill="#3eb049"/></svg>" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySql" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/confluence/confluence-original-wordmark.svg" alt="SourceTree" width="40" height="40"/>&nbsp;
+</div>
