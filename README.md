@@ -1,12 +1,10 @@
 <img width="1200" alt="image" src="https://github.com/Neerajraja10/Neeraj-Raja-overview/assets/114890256/56dd56ed-75ea-4239-8602-75afe2d5ec1e">
 
-<p align="center">
-  <a href="mailto:raja.n@northeastern.edu"style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: #fff; text-decoration: none; border-radius: 4px; font-weight: bold;">
-    <i class="fas fa-envelope" style="margin-right: 5px;"></i> Email</a>
-  •</a> •
-  <a href="https://www.linkedin.com/in/neeraj-raja-260a10104/"style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: #fff; text-decoration: none; border-radius: 4px; font-weight: bold;">
-    <i class="fab fa-linkedin" style="margin-right: 5px;"></i> LinkedIn</a>
-</p>
+<div align="center" dir="auto">
+<a href="https://www.linkedin.com/in/neeraj-raja-260a10104/" rel="nofollow"><img src="https://camo.githubusercontent.com/a0a9351981213a8f7a1f933af50f04f7b50f8c2926fce5e3c3d676868d63a3f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d6433663665393f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d353535353535266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-d3f6e9?style=for-the-badge&amp;labelColor=555555&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="mailto:raja.n@northeastern.edu"><img src="https://camo.githubusercontent.com/793bdd22bd04b8772ef8af2dce03a309d9b99256d57496b805e6db096c5a2cc7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6433663665393f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d353535353535266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-d3f6e9?style=for-the-badge&amp;labelColor=555555&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<h3 tabindex="-1" dir="auto"><a id="user-content-hi-im-ashika-" class="anchor" aria-hidden="true" href="#hi-im-ashika-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Hi, I’m Ashika! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h3>
+</div>
 
 
 With a strong background in project management, cloud computing, and system architecture, I bring a unique blend of skills and expertise to the world of technology. Over the years, I have successfully led cross-functional teams in developing and delivering large-scale web content management systems, resulting in significant improvements in efficiency and accuracy. My experience includes establishing Project Management Offices (PMOs) to support multiple projects, driving on-time deliveries, cost reduction, and resource utilization improvement.
